@@ -1,0 +1,3 @@
+The goal of this project is to find the majority element in different arrays, where the arrays vary in size and characteristics. The project involves testing multiple algorithms designed to identify the majority element, including both simple and advanced approaches.
+
+To evaluate the performance of these algorithms, the execution times are measured for each input array. By comparing the theoretical time complexities with the empirical results, the project aims to explore how well each algorithm performs in practice. This allows for a better understanding of the actual computational efficiency versus the theoretical predictions for various scenarios.
